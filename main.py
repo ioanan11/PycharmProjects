@@ -13,3 +13,9 @@ elif age < 8 and film_rating == 18 or film_rating == 15 or film_rating == "12A" 
     print("You cannot watch this film, please choose U rated film")
 
 else: print("Please enter a valid input")
+
+def additi12
+ on (a,b):
+    return (a + b)
+print(addition(3,5))
+print(addition(165,194))
